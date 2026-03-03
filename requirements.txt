@@ -1,0 +1,8 @@
+ultralytics
+roboflow
+paddlepaddle 
+paddleocr
+opencv-python
+python-dotenv
+pandas
+streamlit
